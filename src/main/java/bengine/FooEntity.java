@@ -1,0 +1,5 @@
+package bengine;
+
+class FooEntity {
+
+}
